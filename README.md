@@ -13,6 +13,7 @@ En noviemrbe del 2022, empecé a compartir mis conocimientos con personas que re
 [![VSCode](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
 </br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![NextJs](https://img.shields.io/badge/nextjs-53AC56?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![React Hook Form](https://img.shields.io/badge/Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white&labelColor=101010)]()
 [![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white&labelColor=101010)]()
@@ -23,6 +24,7 @@ En noviemrbe del 2022, empecé a compartir mis conocimientos con personas que re
 [![Styled Components](https://img.shields.io/badge/Styled_Component-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white&labelColor=101010)]()
 </br>
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![Hasura](https://img.shields.io/badge/hasura-1EB4D4?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
