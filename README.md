@@ -13,7 +13,7 @@ En noviemrbe del 2022, empecé a compartir mis conocimientos con personas que re
 [![VSCode](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
 </br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![Typescript](https://img.shields.io/badge/typescript-#3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
+[![Typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![NextJs](https://img.shields.io/badge/nextjs-53AC56?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![React Hook Form](https://img.shields.io/badge/Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white&labelColor=101010)]()
@@ -35,6 +35,8 @@ En noviemrbe del 2022, empecé a compartir mis conocimientos con personas que re
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=101010)]()
 [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white&labelColor=101010)]()
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
+[![Rabbitmq](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white&labelColor=101010)]()
+[![Dart](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=101010)]()
 
 ## Mis redes sociales:
 
